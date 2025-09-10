@@ -1,6 +1,4 @@
 //implict coercion
-
-
 console.log(5+true);   //true = 1  and false = 0;
 
 console.log("5"+1); 
